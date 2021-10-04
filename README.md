@@ -9,7 +9,7 @@ a listar comandos para empezar a formar la base de trabajo en la nube_
 
 _Mis datos son:_
 
-Miguel Reyes, Tiene 19 años, es de Sevilla y
+Miguel Reyes García, 19 años y de Sevilla.
 
 
 ### Comandos Claves 📋
