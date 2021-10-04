@@ -1,19 +1,36 @@
-# LaLiga DB
+# GitHub
 
-_Vamos a registrar todos los datos estadísticos de LaLiga con la mayor precisión, actualización y dedicación del mundo. Todos los goles, pases, asistencias, paradas... Todo al segundo_
+_Voy a explicar de forma básica que hemos hecho en este proyecto de GitHub_
 
-## Equipo 👁️‍🗨️
+_Lo primero de todo hemos instalado el comando Git para poder hacer uso del git en PowerShell, después nos creamos una cuenta de GitHub donde comenzamos
+a listar comandos para empezar a formar la base de trabajo en la nube_
 
-_Contamos con el mejor Analista del sector del deporte:_
+## Datos 👁️‍🗨️
 
-Miguel Reyes, Tiene 19 años, es de Sevilla y apasionado de las estadísticas el cual nos brindará de seguro el mejor seguimiento en vivo al segundo y al cual podréis seguir en Twitter para pequeñas pildoras de curiosidades del mundillo
+_Mis datos son:_
+
+Miguel Reyes, Tiene 19 años, es de Sevilla y
 
 
-### Pre-requisitos 📋
+### Comandos Claves 📋
 
-_¿Que necesitas para trabajar aquí?_
+_¿Comandos usados?_
 
 ```
-Simplemente pasión por del deporte y los números.
+Git init:  Puede utilizarse para convertir un proyecto existente y sin versión en un repositorio de Git o inicializar un nuevo repositorio vacío.
+
+GIT ADD:  Añadir ficheros
+
+git config --global user.email mreygar0311@g.educaand.es   (Configurar cuenta)
+
+git config --global user.name reyesgarciamiguel (Configurar cuenta)
+
+git commit -m “Mensaje”: Enviar repositorios con un mensaje
+
+git branch -M main: Crea la carpeta Main donde se situa nuestros archivos
+
+git remote add origin https://github.com/reyesgarciamiguel/PROYECTO1.git : Asociar mi carpeta local a la nube.
+
+git push -u origin main: Termina de enviar los archivos a la nube
 ```
 
